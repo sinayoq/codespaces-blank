@@ -1,0 +1,21 @@
+
+#zzEC2a > .block-layout .layout-element:nth-child(46) .text-box,
+#zzEC2a > .block-layout .layout-element:nth-child(42) .text-box,
+#zzEC2a > .block-layout .layout-element:nth-child(4) .text-box,
+#zzEC2a > .block-layout .layout-element:nth-child(35) .text-box,
+#zzEC2a > .block-layout .layout-element:nth-child(22) .text-box,
+#zzEC2a > .block-layout .layout-element:nth-child(10) .text-box,
+#zzEC2a > .block-layout .layout-element:nth-child(13) .text-box,
+#zzEC2a > .block-layout .layout-element:nth-child(16) .text-box,
+#zzEC2a > .block-layout .layout-element:nth-child(7) .text-box{
+	padding: 20px 50px;
+}
+
+#zzEC2a > .block-layout .layout-element:nth-child(42) .text-box h6{
+	line-height: 27px;
+}
+
+#zzEC2a > .block-layout .layout-element:nth-child(44) .text-box h5{
+	font-size: 30px !important;
+	padding-top: 30px;
+}
